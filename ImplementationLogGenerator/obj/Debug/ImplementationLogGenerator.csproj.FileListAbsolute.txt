@@ -1,0 +1,6 @@
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\bin\Debug\ImplementationLogGenerator.exe.config
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\bin\Debug\ImplementationLogGenerator.exe
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\bin\Debug\ImplementationLogGenerator.pdb
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\obj\Debug\ImplementationLogGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\obj\Debug\ImplementationLogGenerator.exe
+C:\Users\Ryan Skull\Documents\0_PersonalWork\ImplementationLogGenerator\ImplementationLogGenerator\obj\Debug\ImplementationLogGenerator.pdb
